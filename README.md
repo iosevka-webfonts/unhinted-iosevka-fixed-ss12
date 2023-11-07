@@ -1,4 +1,4 @@
-# Unhinted Iosevka Fixed SS12 WebFont 27.3.3
+# Unhinted Iosevka Fixed SS12 WebFont 27.3.4
 
 ## How to use
 
